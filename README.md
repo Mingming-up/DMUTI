@@ -1,5 +1,5 @@
 <div align="center">
-<img width="500" height="500" alt="图片2" src="https://github.com/user-attachments/assets/1ee8a40a-136b-47ab-ab29-e5ae7dd9dd03" />
+<img width="300" height="300" alt="图片2" src="https://github.com/user-attachments/assets/1ee8a40a-136b-47ab-ab29-e5ae7dd9dd03" />
 </div>
 
 # DMUTI
