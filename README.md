@@ -1,20 +1,20 @@
 <div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
+<img width="500" height="500" alt="图片2" src="https://github.com/user-attachments/assets/1ee8a40a-136b-47ab-ab29-e5ae7dd9dd03" />
 </div>
 
-# Run and deploy your AI Studio app
+# DMUTI
 
-This contains everything you need to run your app locally.
+大连海事大学的专属DMUTI测试。本测试纯属娱乐，是本人练习AI Agent的小东西。后续优不优化不一定，闹着玩。
 
-View your app in AI Studio: https://ai.studio/apps/14123e7b-9e80-4fa8-bd1f-57d3699ca5cf
+# 技术栈
 
-## Run Locally
+本项目主要使用以下技术构建：
 
-**Prerequisites:**  Node.js
+- **React**：用于构建网页交互界面和组件结构。
+- **TypeScript**：为项目提供类型检查，让代码更稳定、易维护。
+- **Vite**：作为前端构建工具，用于本地开发、打包和预览。
+- **Tailwind CSS**：用于快速编写页面样式和响应式布局。
+- **Lucide React**：用于页面中的图标展示。
+- **Motion**：用于首页、答题页和结果页之间的动效切换。
 
-
-1. Install dependencies:
-   `npm install`
-2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
-3. Run the app:
-   `npm run dev`
+项目整体是一个基于 Vite 的前端单页应用，用户在浏览器中完成测试，不需要后端服务即可运行。
